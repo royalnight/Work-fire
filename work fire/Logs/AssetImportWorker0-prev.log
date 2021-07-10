@@ -1,0 +1,279 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.12f1 (b3b2c6512326) revision 11776710'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1052; Version 2009; 64bit' Language: 'zh' Physical Memory: 32687 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\unity\unity\2020.3.12f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Unity 1/Work-fire/work fire
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62859
+Successfully changed project path to: E:/Unity 1/Work-fire/work fire
+E:/Unity 1/Work-fire/work fire
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 35.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+[Subsystems] Discovering subsystems at path E:/unity/unity/2020.3.12f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Unity 1/Work-fire/work fire/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 580 Series (ID=0x67df)
+    Vendor:   
+    VRAM:     8171 MB
+    Driver:   27.20.1034.6
+Initialize mono
+Mono path[0] = 'E:/unity/unity/2020.3.12f1/Editor/Data/Managed'
+Mono path[1] = 'E:/unity/unity/2020.3.12f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/unity/unity/2020.3.12f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56656
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/unity/unity/2020.3.12f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000956 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 39.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.856 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003438 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 34.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.076 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.37 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2080 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.8 MB.
+System memory in use after: 92.8 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2513.
+Total: 1.898100 ms (FindLiveObjects: 0.171800 ms CreateObjectMapping: 0.077000 ms MarkObjects: 1.519000 ms  DeleteObjects: 0.129200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.019704 seconds 
+  Import took 0.022350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.539622 seconds.
+  path: Assets/素材
+  artifactKey: Guid(70f399e8cbf652148935f856eb2659e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材 using Guid(70f399e8cbf652148935f856eb2659e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a0ec31450983f2b918109178c76a08f') in 0.006534 seconds 
+  Import took 0.009927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.649372 seconds.
+  path: Assets/素材/New Material.mat
+  artifactKey: Guid(1227d2a006ba0c14a89c6ab0919ea5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/New Material.mat using Guid(1227d2a006ba0c14a89c6ab0919ea5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5bf69685934f97f7d5e0d0f387fc075') in 0.164912 seconds 
+  Import took 0.168244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.450283 seconds.
+  path: Assets/素材/背景顏色.mat
+  artifactKey: Guid(1227d2a006ba0c14a89c6ab0919ea5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/背景顏色.mat using Guid(1227d2a006ba0c14a89c6ab0919ea5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b94bd7f72f29354b46c80ddbe16e8ae') in 0.015729 seconds 
+  Import took 0.019555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.873063 seconds.
+  path: Assets/素材/背景顏色.mat
+  artifactKey: Guid(1227d2a006ba0c14a89c6ab0919ea5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/背景顏色.mat using Guid(1227d2a006ba0c14a89c6ab0919ea5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82bf84f056b24e65e1076ede5c2b01ac') in 0.020106 seconds 
+  Import took 0.024039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 461.135999 seconds.
+  path: Assets/素材/火焰.mat
+  artifactKey: Guid(cc43d36970af96041ad2bffbe2131a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/火焰.mat using Guid(cc43d36970af96041ad2bffbe2131a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a5359ac0c16a49e95383940053bf1f4') in 0.014960 seconds 
+  Import took 0.019047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1324.857156 seconds.
+  path: Assets/素材/undefined - Imgur.png
+  artifactKey: Guid(9d72092ad46a90643941cc6422d50781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/undefined - Imgur.png using Guid(9d72092ad46a90643941cc6422d50781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec32f3c026dfbf70bdf1f7d67519c028') in 0.040458 seconds 
+  Import took 0.044059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.813321 seconds.
+  path: Assets/素材/火焰.png
+  artifactKey: Guid(9d72092ad46a90643941cc6422d50781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/火焰.png using Guid(9d72092ad46a90643941cc6422d50781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '267799621b99e11b0460fe6cfa1d806e') in 0.016873 seconds 
+  Import took 0.020345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003806 seconds.
+  path: Assets/素材/火焰.png
+  artifactKey: Guid(9d72092ad46a90643941cc6422d50781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/火焰.png using Guid(9d72092ad46a90643941cc6422d50781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '267799621b99e11b0460fe6cfa1d806e') in 0.018646 seconds 
+  Import took 0.022588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1599.292819 seconds.
+  path: Assets/素材/undefined - Imgur (1).png
+  artifactKey: Guid(e8bf7eb79349a1544a0a946b6a5d15a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/undefined - Imgur (1).png using Guid(e8bf7eb79349a1544a0a946b6a5d15a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d3cf056a2f04af55bfc8a9ccd4965cb') in 0.021285 seconds 
+  Import took 0.025034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002008 seconds.
+  path: Assets/素材/undefined - Imgur (1).png
+  artifactKey: Guid(e8bf7eb79349a1544a0a946b6a5d15a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/undefined - Imgur (1).png using Guid(e8bf7eb79349a1544a0a946b6a5d15a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d3cf056a2f04af55bfc8a9ccd4965cb') in 0.016975 seconds 
+  Import took 0.022249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.714598 seconds.
+  path: Assets/素材/火焰.png
+  artifactKey: Guid(e8bf7eb79349a1544a0a946b6a5d15a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/火焰.png using Guid(e8bf7eb79349a1544a0a946b6a5d15a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31c3327d5cf84470776e04ee73728328') in 0.013917 seconds 
+  Import took 0.016930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009349 seconds.
+  path: Assets/素材/火焰.png
+  artifactKey: Guid(e8bf7eb79349a1544a0a946b6a5d15a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/火焰.png using Guid(e8bf7eb79349a1544a0a946b6a5d15a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31c3327d5cf84470776e04ee73728328') in 0.015987 seconds 
+  Import took 0.019569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 245.736697 seconds.
+  path: Assets/素材/undefined - Imgur (2).png
+  artifactKey: Guid(28771cc3640d0e540840568aa75e6e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/undefined - Imgur (2).png using Guid(28771cc3640d0e540840568aa75e6e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e673de2d9a98c50f38dcfef2b10e480e') in 0.021482 seconds 
+  Import took 0.025674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.219018 seconds.
+  path: Assets/素材/火焰.png
+  artifactKey: Guid(28771cc3640d0e540840568aa75e6e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/火焰.png using Guid(28771cc3640d0e540840568aa75e6e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '119e291560ecb6ef2d32342e13cbbbdf') in 0.017408 seconds 
+  Import took 0.020719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001893 seconds.
+  path: Assets/素材/火焰.png
+  artifactKey: Guid(28771cc3640d0e540840568aa75e6e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/火焰.png using Guid(28771cc3640d0e540840568aa75e6e29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '119e291560ecb6ef2d32342e13cbbbdf') in 0.020697 seconds 
+  Import took 0.024701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.338923 seconds.
+  path: Assets/素材/火焰.mat
+  artifactKey: Guid(cc43d36970af96041ad2bffbe2131a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/火焰.mat using Guid(cc43d36970af96041ad2bffbe2131a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e017d3d132e99afb220a51740c76e4c5') in 0.015909 seconds 
+  Import took 0.021570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 755.545715 seconds.
+  path: Assets/素材/undefined - Imgur (3).png
+  artifactKey: Guid(155587d65b987844caf0ee4b9ac98a3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/undefined - Imgur (3).png using Guid(155587d65b987844caf0ee4b9ac98a3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '186e7f8b977ae21c3905b56651552515') in 0.025691 seconds 
+  Import took 0.030689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 146.479944 seconds.
+  path: Assets/素材/undefined - Imgur (4).png
+  artifactKey: Guid(da16f6ffd5aa44b4db0f5935964266f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/undefined - Imgur (4).png using Guid(da16f6ffd5aa44b4db0f5935964266f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44917f10edfe853e4c79fd51e2b8f91a') in 0.014227 seconds 
+  Import took 0.019254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 319.712128 seconds.
+  path: Assets/素材/undefined - Imgur (4) (1).png
+  artifactKey: Guid(5d55231bb9e9df74db846d3f4ec028e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/undefined - Imgur (4) (1).png using Guid(5d55231bb9e9df74db846d3f4ec028e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8925b6a3c4bb826ff85b9a055c548f5') in 0.017795 seconds 
+  Import took 0.022306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.584484 seconds.
+  path: Assets/素材/undefined - Imgur (4) (1).png
+  artifactKey: Guid(5d55231bb9e9df74db846d3f4ec028e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/undefined - Imgur (4) (1).png using Guid(5d55231bb9e9df74db846d3f4ec028e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '114362985f2bc9dd540080b879001c3b') in 0.011591 seconds 
+  Import took 0.014626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010580 seconds.
+  path: Assets/素材/undefined - Imgur (4) (1).png
+  artifactKey: Guid(5d55231bb9e9df74db846d3f4ec028e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/undefined - Imgur (4) (1).png using Guid(5d55231bb9e9df74db846d3f4ec028e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '114362985f2bc9dd540080b879001c3b') in 0.010412 seconds 
+  Import took 0.013643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.026879 seconds.
+  path: Assets/素材/undefined - Imgur (4) (1).png
+  artifactKey: Guid(5d55231bb9e9df74db846d3f4ec028e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/undefined - Imgur (4) (1).png using Guid(5d55231bb9e9df74db846d3f4ec028e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0e297bec2cf62c96bf383d5bfa37a4c') in 0.016191 seconds 
+  Import took 0.019597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008256 seconds.
+  path: Assets/素材/undefined - Imgur (4) (1).png
+  artifactKey: Guid(5d55231bb9e9df74db846d3f4ec028e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/undefined - Imgur (4) (1).png using Guid(5d55231bb9e9df74db846d3f4ec028e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0e297bec2cf62c96bf383d5bfa37a4c') in 0.012800 seconds 
+  Import took 0.016748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 122.137657 seconds.
+  path: Assets/素材/火焰.mat
+  artifactKey: Guid(cc43d36970af96041ad2bffbe2131a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/火焰.mat using Guid(cc43d36970af96041ad2bffbe2131a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d97a3bb41c6fc5821c41e62d0c6fc3d') in 0.013672 seconds 
+  Import took 0.017888 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
